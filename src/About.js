@@ -25,7 +25,7 @@ const About = props => {
       <Grid container justify="center" alignItems="center" direction="row" className={classes.root}>
           <Grid className={classes.caption}>
           <Typography component="h2" variant="h5" gutterBottom>
-            Stay Hungry, Stay Foolish. 
+            I'm Hungry, I'm Foolish. 
           </Typography>
           </Grid>
       </Grid>
